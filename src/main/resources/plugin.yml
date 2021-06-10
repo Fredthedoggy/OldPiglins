@@ -1,0 +1,7 @@
+name: OldPiglins
+version: ${project.version}
+main: me.fredthedoggy.oldpiglins.OldPiglins
+api-version: 1.16
+prefix: OldPiglins
+authors: [ Fredthedoggy ]
+description: Grumpy Old Piglins. Wait no, 1.16.1 trades in 1.16.2+
